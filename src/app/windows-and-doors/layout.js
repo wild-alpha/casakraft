@@ -1,9 +1,9 @@
 import '../globals.css';
 
 export const metadata = {
-  title: "Windows & Doors Dubai - Custom Installation | Casa Kraft Interiors",
+  title: "Best Doors & Windows Company in Dubai, UAE",
   description:
-    "Casa Kraft Interiors offers windows and doors solutions in Dubai with custom design, supply, and professional installation for spaces.",
+    "Casa Kraft Interior Design & Renovation offers aluminium doors & windows, window repair, glass door repair & alignment in Dubai. Get a free quote!",
   keywords: [
     "windows and doors Dubai",
     "custom windows Dubai",
@@ -12,11 +12,13 @@ export const metadata = {
     "sliding doors Dubai",
     "Casa Kraft Interiors",
   ],
+  
   authors: [{ name: "Casa Kraft Interiors" }],
   metadataBase: new URL("https://casakraftinteriors.ae"),
   alternates: {
     canonical: "/windows-and-doors",
   },
+  publisher: "Casa Kraft Interiors", 
 };
 
 export default function RootLayout({ children }) {

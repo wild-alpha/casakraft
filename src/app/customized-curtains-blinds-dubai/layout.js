@@ -1,9 +1,9 @@
 import '../globals.css';
 
 export const metadata = {
-  title: "Customized Curtains & Blinds Dubai - Casa Kraft Interiors",
+  title: "Luxurious custom Curtains & Blinds Dubai | Casa Kraft interiors",
   description:
-    "Casa Kraft Interiors offers customized curtains and blinds in Dubai with premium design, measurement, and installation services tailored to your interiors.",
+    "Casa Kraft offers premium curtains & blinds with custom designs, motorized options and expert installation across Dubai . Book now",
   keywords: [
     "curtains and blinds Dubai",
     "custom curtains Dubai",
@@ -17,6 +17,7 @@ export const metadata = {
   alternates: {
     canonical: "/customized-curtains-blinds-dubai",
   },
+   publisher: "Casa Kraft Interiors",
 };
 
 export default function RootLayout({ children }) {
